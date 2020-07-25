@@ -321,7 +321,7 @@ msgid "Upload Config"
 msgstr "上传配置"
 
 msgid "NB: Only upload file with name config.yml or config.yaml"
-msgstr "注意：上载config.yml或config.yaml的文件"
+msgstr "注意：仅上传文件名为config.yml或config.yaml的文件"
 
 msgid "Subcription Url"
 msgstr "订阅URL"
@@ -787,7 +787,7 @@ msgid "Daily Server subscription update time. Only update config in use"
 msgstr "每日服务器订阅更新时间。仅更新正在使用的配置"
 
 msgid "NB: Only upload file with name .yaml.It recommended to rename each upload file name to avoid overwrite"
-msgstr "注意：仅上载名为.yaml的文件。建议重命名每个上载文件名以避免覆盖"
+msgstr "注意：仅上载扩展名为.yaml的文件。建议重命名每个上传的文件以避免覆盖"
 
 msgid "Not Selected"
 msgstr "未选择"
@@ -1003,10 +1003,10 @@ msgid "IP/Domain/Address/Keyword/Port"
 msgstr "IP/域/地址/关键字/端口"
 
 msgid "Manually download, unzip and rename clash core from links below and upload"
-msgstr "从下面的链接手动下载、解压和重命名到clash然后上载"
+msgstr "手动从下面的链接下载，之后解压并重命名为clash，然后上传"
 
 msgid "Manual Upload"
-msgstr "手动上载"
+msgstr "手动上传"
 
 msgid "Download Online"
 msgstr "在线下载"
@@ -1186,10 +1186,10 @@ msgid "Set DNS Listen Port"
 msgstr "设置DNS侦听端口"
 
 msgid "Default NameServer"
-msgstr "默认名称服务器"
+msgstr "默认域名服务器"
 
 msgid "Default Nameserver List"
-msgstr "默认名称服务器列表"
+msgstr "默认域名服务器列表"
 
 msgid "Enhanced Mode"
 msgstr "增强模式"
