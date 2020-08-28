@@ -727,10 +727,10 @@ msgid "Every Sunday"
 msgstr "每周日"
 
 msgid "Update Every (Week/Month)"
-msgstr "更新（每周/每月）"
+msgstr "每周/月更新"
 
 msgid "Update Day (Day of Week)"
-msgstr "更新的天"
+msgstr "周几更新"
 
 msgid "Time For Update (Once a week/Month)"
 msgstr "更新（每周一次/每月一次）"
@@ -1261,7 +1261,7 @@ msgid "Filter List"
 msgstr "自定义过滤器列表"
 
 msgid "Installed Version"
-msgstr "当前内核版本"
+msgstr "当前安装的内核版本"
 
 msgid "New Version"
 msgstr "最新内核版本"
